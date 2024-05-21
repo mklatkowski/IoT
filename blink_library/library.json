@@ -1,0 +1,20 @@
+{
+    "name": "blink",
+    "keywords": "led, blink",
+    "description": "Arduino Library for IoT Laboratory",
+    "repository": {
+        "type": "git",
+        "url": "https://example.com/LedBlinker.git"
+    },
+    "authors": [
+        {
+            "name": "Michał Klatkowski",
+            "email": "266546@student.pwr.edu.pl",
+            "maintainer": true
+        }
+    ],
+    "version": "1.0.0",
+    "homepage": "hhttps://example.com/blink",
+    "frameworks": "arduino",
+    "platforms": "*"
+}
